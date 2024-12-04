@@ -1,2 +1,2 @@
 # MyFirstProject
-Project on Movie Recommedation
+Project on Minesweeper Game (Replica)
